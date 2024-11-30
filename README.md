@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Routh. Kiran Babu</h1>
 <h3 align="center">Aspiring Software Tester | Learning Manual Testing, Automation with Cypress & Selenium, and Programming with Java, JavaScript, and Python.</h3>
 
