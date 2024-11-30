@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Routh. Kiran Babu</h1>
 <h3 align="center">Aspiring Software Tester | Learning Manual Testing, Automation with Cypress & Selenium, and Programming with Java, JavaScript, and Python.</h3>
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250"/>
+
 # 💫 About Me:
 Hi, I'm Routh Kiran Babu, a passionate software tester currently learning Selenium with Java for automation testing. I’m excited about enhancing my testing skills and creating robust, efficient automation scripts to streamline testing processes.<br><br>Alongside mastering manual testing, I’m building expertise in Java programming, Cypress, and various testing tools like Postman and Rest Assured. My journey is driven by my commitment to deliver high-quality software and contribute to improving the testing lifecycle in every project I undertake.<br><br>Feel free to explore my repositories where I share my learning progress, projects, and insights. Let’s connect and collaborate on testing solutions!
 
