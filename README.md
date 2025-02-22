@@ -8,6 +8,12 @@ Hi! I'm Routh Kiran Babu, a passionate Software Tester dedicated to delivering h
 # 💻 Programming Languages:
 
  - Java, Python, JavaScript
+# 📋 Manual Testing Skills:
+ - 🔍 Test Case Design & Execution
+ - 🐞 Defect Tracking & Reporting
+ - 📊 Functional & Non-Functional Testing
+ - 📁 Documentation & Reporting
+ - 💡 Agile & Test Management Tools
 # 🧪 Automation Tools & Frameworks:
 
  - Cypress (Mocha, Chai)
