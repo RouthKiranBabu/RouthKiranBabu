@@ -20,18 +20,12 @@ Hi! I'm Routh Kiran Babu, a passionate Software Tester dedicated to delivering h
  - Selenium (TestNG, JUnit)
  - Playwright (Jest, Mocha)
  - Currently exploring Appium for Mobile Testing
- - Delving into Kali Linux and Metasploit for Security Testing
 # ⚡ Key Skills:
 
  - UI & API Automation
  - End-to-End Functional Testing
  - Cross-Browser & Cross-Platform Testing
- - Security Awareness & Vulnerability Analysis
  - GitHub for Version Control & Documentation
-# 🚀 Currently expanding my expertise in:
-
- - Mobile Testing using Appium
- - Cybersecurity with Kali Linux & Metasploit
 
 Let's connect and collaborate on building efficient, secure, and scalable testing solutions! 🚀
 <div>
@@ -92,11 +86,26 @@ Let's connect and collaborate on building efficient, secure, and scalable testin
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Apache POI](https://img.shields.io/badge/Apache%20POI-30758F?style=for-the-badge&logo=apache&logoColor=white)
 ![Extent Reports](https://img.shields.io/badge/Extent--Reports-3C3C3C?style=for-the-badge&logo=report&logoColor=white)
-
 <div>
 </details>
 
+<details>
+ <summary>🤖 Playwright</summary>
+<div align='center'>
 
+![Playwright](https://img.shields.io/badge/Playwright-%23E60073?style=for-the-badge&logo=playwright&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Testing](https://img.shields.io/badge/End--to--End%20Testing-999999?style=for-the-badge&logo=testinglibrary&logoColor=white)
+
+<div>
+</details>
+ 
 </div>
 
 <div align='center'>
