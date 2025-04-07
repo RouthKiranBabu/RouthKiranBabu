@@ -34,6 +34,10 @@ Let's connect and collaborate on building efficient, secure, and scalable testin
  
 # 📊 LeetCode Stats
  ![LeetCode Stats](https://leetcard.jacoblin.cool/routhkiranbabu?theme=dark&font=baloo&ext=heatmap)
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/routhkiranbabu?ext=activity)
+
+
+
 </div>
 
 <div align = 'left'>
