@@ -34,16 +34,80 @@ Hi! I'm Routh Kiran Babu, a passionate Software Tester dedicated to delivering h
  - Cybersecurity with Kali Linux & Metasploit
 
 Let's connect and collaborate on building efficient, secure, and scalable testing solutions! 🚀
-<div align='center' width = 50%>
-  
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RouthKiranBabu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=RouthKiranBabu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RouthKiranBabu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div>
+ 
+<div align = 'center'>
+ 
+# 📊 LeetCode Stats
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/routhkiranbabu?theme=dark&font=baloo&ext=heatmap)
 </div>
----
+
+<div align = 'left'>
+
+ <!--Ask to the ChatGPT
+ can you provide the tech stack badges to add in the github readme for the manual testing where I have experience with jira, excel, SDLC and STLC, functional and non functional, regression testing-->
+## 🛠️ Tech Stack
+<details>
+ <summary>📋 Manual Testing</summary>
+<div align='center'>
+ 
+![Manual Testing](https://img.shields.io/badge/Testing-Manual%20Testing-blue?style=for-the-badge&logo=testing-library)
+![JIRA](https://img.shields.io/badge/Tool-JIRA-0052CC?style=for-the-badge&logo=jira)
+![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SDLC](https://img.shields.io/badge/Process-SDLC-blueviolet?style=for-the-badge)
+![STLC](https://img.shields.io/badge/Process-STLC-ff69b4?style=for-the-badge)
+![Functional Testing](https://img.shields.io/badge/Type-Functional%20Testing-success?style=for-the-badge)
+![Non-Functional Testing](https://img.shields.io/badge/Type-Non--Functional%20Testing-critical?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Type-Regression%20Testing-orange?style=for-the-badge)
+<div>
+</details>
+
+<details>
+ <summary>🤖 Cypress</summary>
+<div align='center'>
+ 
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-292929?style=for-the-badge&logo=json&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<div>
+</details>
+
+<details>
+ <summary>🤖 Selenium</summary>
+<div align='center'>
+
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testing-library&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Apache POI](https://img.shields.io/badge/Apache%20POI-30758F?style=for-the-badge&logo=apache&logoColor=white)
+![Extent Reports](https://img.shields.io/badge/Extent--Reports-3C3C3C?style=for-the-badge&logo=report&logoColor=white)
+
+<div>
+</details>
+
+
+</div>
+
+<div align='center'>
+ 
+# 📊 GitHub Stats:
+<!--Stats Stays side by side-->
+![](https://github-readme-stats.vercel.app/api?username=RouthKiranBabu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=RouthKiranBabu&theme=dark&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=RouthKiranBabu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
+</div>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/routhkiranbabu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="routh kiran babu" height="30" width="40" /></a>
