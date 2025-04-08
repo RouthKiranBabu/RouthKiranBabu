@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Tester | Learning Manual Testing, Automation with Cypress & Selenium, and Programming with Java, JavaScript, and Python.</h3>
 
 # 💫 About Me
-Hi! I'm Routh Kiran Babu, a passionate Software Tester dedicated to delivering high-quality solutions through efficient and reliable automation testing.<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250"/> With hands-on experience in `Cypress, Selenium, and Playwright`, I specialize in crafting robust automation frameworks that streamline testing processes and ensure product excellence.
+Hi! I'm Routh Kiran Babu, a passionate Software Tester dedicated to delivering high-quality solutions through efficient and reliable automation testing.<img align="right" alt="GIF" src="https://github.com/RouthKiranBabu/RouthKiranBabu/blob/main/imgif/gitgif.gif" width="250"/> With hands-on experience in `Cypress, Selenium, and Playwright`, I specialize in crafting robust automation frameworks that streamline testing processes and ensure product excellence.
 <br><br>Alongside `mastering manual testing`, I’m building expertise in `Java programming`, `Cypress`, and various testing tools like `Postman` and `Rest Assured`. My journey is driven by my commitment to deliver high-quality software and contribute to improving the testing lifecycle in every project I undertake.<br><br>Feel free to explore my repositories where I share my learning progress, projects, and insights. Let’s connect and collaborate on testing solutions!
 
 # 💻 Programming Languages:
