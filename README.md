@@ -1,35 +1,29 @@
 <h1 align="center">Hi 👋, I'm Routh. Kiran Babu</h1>
-<h3 align="center">Aspiring Software Tester | Learning Manual Testing, Automation with Cypress & Selenium, and Programming with Java, JavaScript, and Python.</h3>
+<h3 align="center">🔍 QA Engineer | 1+ Yrs Exp in Automation & Manual Testing | Java | Python | JavaScript | Cypress | Selenium | Playwright | K6 | Appium | TestNG | Postman | RestAssured | JIRA | SQLite | Cucumber | LeetCode | EC Engineer</h3>
 
-# 💫 About Me
-Hi! I'm Routh Kiran Babu, a passionate Software Tester dedicated to delivering high-quality solutions through efficient and reliable automation testing.<img align="right" alt="GIF" src="https://github.com/RouthKiranBabu/RouthKiranBabu/blob/main/imgif/gitgif.gif" width="250"/> With hands-on experience in `Cypress, Selenium, and Playwright`, I specialize in crafting robust automation frameworks that streamline testing processes and ensure product excellence.
-<br><br>Alongside `mastering manual testing`, I’m building expertise in `Java programming`, `Cypress`, and various testing tools like `Postman` and `Rest Assured`. My journey is driven by my commitment to deliver high-quality software and contribute to improving the testing lifecycle in every project I undertake.<br><br>Feel free to explore my repositories where I share my learning progress, projects, and insights. Let’s connect and collaborate on testing solutions!
-
-# 💻 Programming Languages:
-
+# 👋 About Me
+I'm a passionate Electronics and Communication Engineer turned Software Test Engineer with 1+ years of experience in both Manual and Automation Testing. I thrive on ensuring quality and reliability across web, mobile, and API layers. My testing toolbox is packed with modern frameworks and tools, including:
+## 🔹 Automation Tools:
+ - Cypress (JavaScript)
+ - Selenium (Java) <img align="right" alt="GIF" src="https://github.com/RouthKiranBabu/RouthKiranBabu/blob/main/imgif/gitgif.gif" width="250"/>
+ - Playwright (JavaScript)
+ - Appium (Mobile Testing)
+## 🔹 Performance Testing:
+ - K6
+## 🔹 API Testing:
+ - Postman, RestAssured
+## 🔹 Frameworks & Utilities:
+ - TestNG, Cucumber (Java)
+## 🔹 Bug Tracking & Database:
+ - JIRA, SQLite
+## 🔹 Languages I Use:
  - Java, Python, JavaScript
-# 📋 Manual Testing Skills:
- - 🔍 Test Case Design & Execution
- - 🐞 Defect Tracking & Reporting
- - 📊 Functional & Non-Functional Testing
- - 📁 Documentation & Reporting
- - 💡 Agile & Test Management Tools
-# 🧪 Automation Tools & Frameworks:
+## 🔹 Problem Solving:
+ - Practicing regularly on LeetCode to sharpen my logical and analytical thinking.
+I’m constantly exploring new tools and practices to stay ahead in the QA space, while blending my engineering background to tackle challenges from multiple angles.
 
- - Cypress (Mocha, Chai)
- - Selenium (TestNG, JUnit)
- - Playwright (Jest, Mocha)
- - Currently exploring Appium for Mobile Testing
-# ⚡ Key Skills:
+Let’s build better software together 🚀
 
- - UI & API Automation
- - End-to-End Functional Testing
- - Cross-Browser & Cross-Platform Testing
- - GitHub for Version Control & Documentation
-
-Let's connect and collaborate on building efficient, secure, and scalable testing solutions! 🚀
-<div>
- 
 <div align = 'center'>
  
 # 📊 LeetCode Stats
