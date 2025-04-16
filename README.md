@@ -4,16 +4,17 @@
 # 👋 About Me
 I'm a passionate Electronics and Communication Engineer turned Software Test Engineer with 1+ years of experience in both Manual and Automation Testing. I thrive on ensuring quality and reliability across web, mobile, and API layers. My testing toolbox is packed with modern frameworks and tools, including:
 ## 🔹 Automation Tools:
- - Cypress (JavaScript) *Click Here 👉* [`For Theory`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Cypress) [`For Assignments`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Assignment/cypress)
- - Selenium (Java) *Click Here 👉* [`For Theory`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Selenium) [`For Assignments`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Assignment/Selenium)<img align="right" alt="GIF" src="https://github.com/RouthKiranBabu/RouthKiranBabu/blob/main/imgif/gitgif.gif" width="250"/>
- - Playwright (JavaScript) *Click Here 👉* [`For Theory`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/PlayWright)
- - Appium (Mobile Testing)
+ - **Cypress (JavaScript)** *Click Here 👉* [`For Theory`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Cypress) [`For Assignments`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Assignment/cypress)
+ - **Selenium (Java)** *Click Here 👉* [`For Theory`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Selenium) [`For Assignments`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Assignment/Selenium)<img align="right" alt="GIF" src="https://github.com/RouthKiranBabu/RouthKiranBabu/blob/main/imgif/gitgif.gif" width="250"/>
+ - **Playwright (JavaScript)** *Click Here 👉* [`For Theory`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/PlayWright)
+ - **Appium (Mobile Testing)** *Click Here 👉* [`For Theory`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Appium) [`For Assignments`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Assignment/Mobile%20Testing)
 ## 🔹 Performance Testing:
- - K6
+ - **K6** *Click Here 👉* [`For Theory`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/K6%20for%20Performance%20Testing)
 ## 🔹 API Testing:
- - Postman, RestAssured
+ - **Postman**, **RestAssured** *Click Here 👉* [`For Postman`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Postman) [`For RestAssured`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Rest%20Assured)
 ## 🔹 Frameworks & Utilities:
- - TestNG, Cucumber (Java)
+ - **TestNG (Java)** *Click Here 👉* [`For Theory`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/TestNG) [`For Assignments`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Assignment/TestNG%20Annotations%20and%20Comparison%20with%20JUnit_Assignment)
+ - **Cucumber (Java)** *Click Here 👉* [`For Theory`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Cucumber) [`For Real-Time Project`](https://github.com/RouthKiranBabu/Selenium-Java-E2E-Testing-Project-for-Stylemate-Website/blob/part_1/outputRepresentation.gif)
 ## 🔹 Bug Tracking & Database:
  - JIRA, SQLite
 ## 🔹 Languages I Use:
