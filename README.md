@@ -9,7 +9,7 @@ I'm a passionate Electronics and Communication Engineer turned Software Test Eng
  - **Playwright (JavaScript)** *Click Here 👉* [`For Theory`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/PlayWright)
  - **Appium (Mobile Testing)** *Click Here 👉* [`For Theory`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Appium) [`For Assignments`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Assignment/Mobile%20Testing)
 ## 🔹 Performance Testing:
- - **K6** *Click Here 👉* [`For Theory`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/K6%20for%20Performance%20Testing)
+ - **K6** *Click Here 👉* [`For Theory`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/K6%20for%20Performance%20Testing)[`For Practical`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/K6%20for%20Performance%20Testing/K6%20Practical)
 ## 🔹 API Testing:
  - **Postman**, **RestAssured** *Click Here 👉* [`For Postman`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Postman) [`For RestAssured`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Rest%20Assured)
 ## 🔹 Frameworks & Utilities:
