@@ -129,6 +129,16 @@ Let’s build better software together 🚀
 <div align = center>
 <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a><a href="https://www.oracle.com/java/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a><a href="https://www.selenium.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/></a><a href="https://playwright.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40"/></a><a href="https://k6.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k6/k6-original.svg" alt="K6" width="40" height="40"/></a><a href="https://www.postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/></a><a href="https://www.atlassian.com/software/jira"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="JIRA" width="40" height="40"/></a><a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a><a href="https://www.electronics-tutorials.ws/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="EC Engineer" width="40" height="40"/></a><a href="https://cucumber.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="40" height="40"/></a><a href="https://rest-assured.io/"><img src="https://avatars.githubusercontent.com/u/11913453?s=280&v=4" alt="RestAssured" width="40" height="40"/></a>
 <a href = "https://www.cypress.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40"/><!-- GitHub --><a href = "https://github.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a><!-- Visual Studio Code --><a href = "https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
+<a href="https://testng.org/doc/">
+  <img src="https://www.tutorialspoint.com/testng/images/testng.jpg" alt="TestNG" width="40" height="40"/>
+</a>
+<a href="https://www.atlassian.com/software/confluence">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/confluence-3628949-3030170.png" alt="Confluence" width="40" height="40"/>
+</a>
+
+
+
+
 </p>
 </div>
 
