@@ -5,7 +5,8 @@
 I'm a passionate Electronics and Communication Engineer turned Software Test Engineer with 1+ years of experience in both Manual and Automation Testing. I thrive on ensuring quality and reliability across web, mobile, and API layers. My testing toolbox is packed with modern frameworks and tools, including:
 ## 🔹 Automation Tools:
  - **Cypress (JavaScript)** *Click Here 👉* [`For Theory`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Cypress) [`For Assignments`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Assignment/cypress)
- - **Selenium (Java)** *Click Here 👉* [`For Theory`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Selenium) [`For Assignments`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Assignment/Selenium)<img align="right" alt="GIF" src="https://github.com/RouthKiranBabu/RouthKiranBabu/blob/main/imgif/gitgif.gif" width="250"/>
+ - **Selenium (Java)** *Click Here 👉* [`For Theory`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Selenium) [`For Assignments`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Assignment/Selenium)
+   <!--<img align="right" alt="GIF" src="https://github.com/RouthKiranBabu/RouthKiranBabu/blob/main/imgif/gitgif.gif" width="250"/> -->
  - **Playwright (JavaScript)** *Click Here 👉* [`For Theory`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/PlayWright)
  - **Appium (Mobile Testing)** *Click Here 👉* [`For Theory`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Appium) [`For Assignments`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Assignment/Mobile%20Testing)
 ## 🔹 Performance Testing:
