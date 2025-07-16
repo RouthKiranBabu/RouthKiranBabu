@@ -42,8 +42,7 @@ Let’s build better software together 🚀
  <!--Ask to the ChatGPT
  can you provide the tech stack badges to add in the github readme for the manual testing where I have experience with jira, excel, SDLC and STLC, functional and non functional, regression testing-->
 ## 🛠️ Tech Stack
-<details>
- <summary>📋 Manual Testing</summary>
+### 📋 Manual Testing
 <div align='center'>
  
 ![Manual Testing](https://img.shields.io/badge/Testing-Manual%20Testing-blue?style=for-the-badge&logo=testing-library)
@@ -55,7 +54,6 @@ Let’s build better software together 🚀
 ![Non-Functional Testing](https://img.shields.io/badge/Type-Non--Functional%20Testing-critical?style=for-the-badge)
 ![Regression Testing](https://img.shields.io/badge/Type-Regression%20Testing-orange?style=for-the-badge)
 <div>
-</details>
 
 <details>
  <summary>🤖 Cypress</summary>
