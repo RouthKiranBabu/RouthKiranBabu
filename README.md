@@ -42,9 +42,10 @@ Let’s build better software together 🚀
  <!--Ask to the ChatGPT
  can you provide the tech stack badges to add in the github readme for the manual testing where I have experience with jira, excel, SDLC and STLC, functional and non functional, regression testing-->
 ## 🛠️ Tech Stack
-### 📋 Manual Testing
+
 <div align='center'>
- 
+
+ ### 📋 Manual Testing
 ![Manual Testing](https://img.shields.io/badge/Testing-Manual%20Testing-blue?style=for-the-badge&logo=testing-library)
 ![JIRA](https://img.shields.io/badge/Tool-JIRA-0052CC?style=for-the-badge&logo=jira)
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -55,9 +56,9 @@ Let’s build better software together 🚀
 ![Regression Testing](https://img.shields.io/badge/Type-Regression%20Testing-orange?style=for-the-badge)
 </div>
 
-### 🤖 Cypress
 <div align='center'>
- 
+
+ ### 🤖 Cypress
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -70,9 +71,10 @@ Let’s build better software together 🚀
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </div>
 
-### 🤖 Selenium
-<div align='center'>
 
+<div align='center'>
+ 
+### 🤖 Selenium
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testing-library&logoColor=white)
@@ -84,9 +86,9 @@ Let’s build better software together 🚀
 ![Extent Reports](https://img.shields.io/badge/Extent--Reports-3C3C3C?style=for-the-badge&logo=report&logoColor=white)
 </div>
 
-### 🤖 Playwright
 <div align='center'>
 
+### 🤖 Playwright
 ![Playwright](https://img.shields.io/badge/Playwright-%23E60073?style=for-the-badge&logo=playwright&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
