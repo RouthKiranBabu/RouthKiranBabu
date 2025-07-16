@@ -53,10 +53,9 @@ Let’s build better software together 🚀
 ![Functional Testing](https://img.shields.io/badge/Type-Functional%20Testing-success?style=for-the-badge)
 ![Non-Functional Testing](https://img.shields.io/badge/Type-Non--Functional%20Testing-critical?style=for-the-badge)
 ![Regression Testing](https://img.shields.io/badge/Type-Regression%20Testing-orange?style=for-the-badge)
-<div>
+</div>
 
-<details>
- <summary>🤖 Cypress</summary>
+### 🤖 Cypress
 <div align='center'>
  
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
@@ -69,11 +68,9 @@ Let’s build better software together 🚀
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-292929?style=for-the-badge&logo=json&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-<div>
-</details>
+</div>
 
-<details>
- <summary>🤖 Selenium</summary>
+### 🤖 Selenium
 <div align='center'>
 
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -85,11 +82,9 @@ Let’s build better software together 🚀
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Apache POI](https://img.shields.io/badge/Apache%20POI-30758F?style=for-the-badge&logo=apache&logoColor=white)
 ![Extent Reports](https://img.shields.io/badge/Extent--Reports-3C3C3C?style=for-the-badge&logo=report&logoColor=white)
-<div>
-</details>
+</div>
 
-<details>
- <summary>🤖 Playwright</summary>
+### 🤖 Playwright
 <div align='center'>
 
 ![Playwright](https://img.shields.io/badge/Playwright-%23E60073?style=for-the-badge&logo=playwright&logoColor=white)
@@ -101,9 +96,7 @@ Let’s build better software together 🚀
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Testing](https://img.shields.io/badge/End--to--End%20Testing-999999?style=for-the-badge&logo=testinglibrary&logoColor=white)
-
-<div>
-</details>
+</div>
  
 </div>
 
