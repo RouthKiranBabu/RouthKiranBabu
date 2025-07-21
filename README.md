@@ -30,10 +30,14 @@ Let’s build better software together 🚀
 <div align = 'center'>
  
 # 📊 LeetCode Stats
+ <!--
  ![LeetCode Stats](https://leetcard.jacoblin.cool/routhkiranbabu?theme=dark&font=baloo&ext=heatmap)
  ![LeetCode Stats](https://leetcard.jacoblin.cool/routhkiranbabu?ext=activity)
-
-
+-->
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://leetcard.jacoblin.cool/routhkiranbabu?theme=dark&font=baloo&ext=heatmap" alt="Stat 1" style="width: 400px; height: auto;">
+  <img src="https://leetcard.jacoblin.cool/routhkiranbabu?ext=activity" alt="Stat 2" style="width: 400px; height: auto;">
+</div>
 
 </div>
 
