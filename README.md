@@ -43,6 +43,11 @@ Let’s build better software together 🚀
 
 <div align = 'left'>
 
+<div align = 'center'>
+ 
+ ## Leetcode Profile [***Click Here***](https://leetcode.com/u/RouthKiranBabu/)
+</div>
+ 
  <!--Ask to the ChatGPT
  can you provide the tech stack badges to add in the github readme for the manual testing where I have experience with jira, excel, SDLC and STLC, functional and non functional, regression testing-->
 ## 🛠️ Tech Stack
