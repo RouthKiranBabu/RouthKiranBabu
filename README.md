@@ -45,7 +45,7 @@ Let’s build better software together 🚀
 
 <div align = 'center'>
  
- ## Leetcode Profile [***Click Here***](https://leetcode.com/u/RouthKiranBabu/)
+ ### Leetcode Profile 👉 [***Click Here***](https://leetcode.com/u/RouthKiranBabu/)
 </div>
  
  <!--Ask to the ChatGPT
