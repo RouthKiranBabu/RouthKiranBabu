@@ -1,6 +1,6 @@
 <!--https://github.com/saadpasta/developerFolio-->
 <h1 align="center">Hi 👋, I'm Routh. Kiran Babu</h1>
-<h3 align="center">🔍 QA Engineer | 1+ Yrs Exp in Automation & Manual Testing | Java | Python | JavaScript | Cypress | Selenium | Playwright | K6 | Appium | TestNG | Postman | RestAssured | JIRA | MySQL | Cucumber | LeetCode | EC Engineer</h3>
+<h3 align="center">🔍 SDET/QA Engineer | 1+ Yrs Exp in Automation & Manual Testing | Java | Python | JavaScript | Cypress | Selenium | Playwright | K6 | Appium | TestNG | Postman | RestAssured | JIRA | MySQL | Cucumber | LeetCode | EC Engineer</h3>
 
 # 👋 About Me
 I'm a passionate Electronics and Communication Engineer turned Software Test Engineer with 1+ years of experience in both Manual and Automation Testing. I thrive on ensuring quality and reliability across web, mobile, and API layers. My testing toolbox is packed with modern frameworks and tools, including:
