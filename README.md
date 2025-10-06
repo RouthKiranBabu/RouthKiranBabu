@@ -29,7 +29,7 @@ Let’s build better software together 🚀
 
 <div align = 'center'>
  
-# 📊 LeetCode Stats
+# 📊 LeetCode Stats(Solved 50+ LeetCode Problems)
  <!--
  ![LeetCode Stats](https://leetcard.jacoblin.cool/routhkiranbabu?theme=dark&font=baloo&ext=heatmap)
  ![LeetCode Stats](https://leetcard.jacoblin.cool/routhkiranbabu?ext=activity)
