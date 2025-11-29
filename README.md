@@ -30,7 +30,6 @@ Let’s build better software together 🚀
 <div align = 'center'>
  
 # 📊 LeetCode Stats
-### “I’m striving to qualify for LeetCode rewards like the T-shirt and cap.”
  <!--
  ![LeetCode Stats](https://leetcard.jacoblin.cool/routhkiranbabu?theme=dark&font=baloo&ext=heatmap)
  ![LeetCode Stats](https://leetcard.jacoblin.cool/routhkiranbabu?ext=activity)
