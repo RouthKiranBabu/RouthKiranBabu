@@ -127,6 +127,11 @@ Let’s build better software together 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RouthKiranBabu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Stat 2" style="width: 400px; height: auto;">
 </div>
 
+# 📊 Strava Stats:
+<div style="display: flex; justify-content: center; gap: 20px;">
+<img src ="https://routhkiranbabu.github.io/strava_stats.github.io/" style="width: 400px; height: auto;">
+</div>
+
 </div>
 </div>
 
