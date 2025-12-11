@@ -127,10 +127,6 @@ Let’s build better software together 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RouthKiranBabu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Stat 2" style="width: 400px; height: auto;">
 </div>
 
-## 🏃‍♂️ Running Activity (Strava Stats)
-### 🔥 Click Below to View My Live Strava Stats  
-[![Strava Stats](https://img.shields.io/badge/Strava-View%20My%20Live%20Stats-orange?logo=strava&style=for-the-badge)](https://routhkiranbabu.github.io/strava_stats.github.io/)
-
 </div>
 </div>
 
