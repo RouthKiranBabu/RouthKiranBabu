@@ -7,7 +7,7 @@ I'm a passionate Electronics and Communication Engineer turned Software Test Eng
 ## 🔹 Automation Tools:
  - **Cypress (JavaScript)** *Click Here 👉* [`For Theory`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Cypress) [`For Assignments`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Assignment/cypress)
  - **Selenium (Java)** *Click Here 👉* [`For Theory`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Selenium) [`For Assignments`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Assignment/Selenium)
-   <!--<img align="right" alt="GIF" src="https://github.com/RouthKiranBabu/RouthKiranBabu/blob/main/imgif/gitgif.gif" width="250"/> -->
+   <img align="right" alt="GIF" src="https://github.com/RouthKiranBabu/RouthKiranBabu/blob/main/imgif/SDET.gif" width="500"/>
  - **Playwright (JavaScript)** *Click Here 👉* [`For Theory`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/PlayWright)
  - **Appium (Mobile Testing)** *Click Here 👉* [`For Theory`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Appium) [`For Assignments`](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Assignment/Mobile%20Testing)
 ## 🔹 Performance Testing:
