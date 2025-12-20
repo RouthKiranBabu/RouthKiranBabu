@@ -152,11 +152,85 @@ Let’s build better software together 🚀
   <img src="https://cdn.iconscout.com/icon/free/png-256/confluence-3628949-3030170.png" alt="Confluence" width="40" height="40"/>
 </a>
 
-
-
-
 </p>
 </div>
+
+
+
+<h2 align="center">🔥 Strava Running Stats — Willpower Booster (Hobby)</h2>
+
+<p align="center">
+  <a href="https://routhkiranbabu.github.io/Strava_stats/" target="_blank">
+    <img src="https://img.shields.io/badge/STRAVA-FOR%20RUNNING-FC4C02?style=for-the-badge&logo=strava&logoColor=white&labelColor=3A3A3A" />
+  </a>
+</p>
+
+<p align="center">
+  <em>
+    This is <strong>not part of my primary professional role</strong> as an SDET,  
+    but a personal discipline-driven hobby that significantly strengthens  
+    <strong>willpower, consistency, and mental endurance</strong>.
+  </em>
+</p>
+
+---
+
+Beyond software testing, I actively pursue **endurance running** and track my progress using Strava.  
+This project showcases a **live, data-driven dashboard** visualizing running consistency, distance trends, and long-term performance.
+
+I apply the same mindset from engineering—**measuring metrics, analyzing patterns, and continuous improvement**—to my fitness journey.
+
+**What this reflects:**
+- 🔥 Strong willpower & long-term discipline  
+- 📊 Data-driven self-improvement  
+- 🔁 Consistency beyond professional responsibilities  
+- 🌐 Deployed as a **GitHub Pages** dashboard
+
+👉 **Explore Live Strava Stats:**  
+https://routhkiranbabu.github.io/Strava_stats/
+
+<h2 align="center">🔥 LeetCode Problem Solving — Mental Sharpness Booster</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/routhkiranbabu/" target="_blank">
+    <img src="https://img.shields.io/badge/LEETCODE-PROBLEM%20SOLVING-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=3A3A3A" />
+  </a>
+</p>
+
+<p align="center">
+  <em>
+    This is <strong>not part of my primary professional role</strong> as an SDET,  
+    but a continuous practice that strengthens  
+    <strong>logical thinking, patience, and problem-solving depth</strong>.
+  </em>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://leetcode.com/routhkiranbabu/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/routhkiranbabu?theme=dark&font=baloo&ext=heatmap"
+         alt="LeetCode Stats"
+         style="width: 400px; height: auto;" />
+  </a>
+  <a href="https://leetcode.com/routhkiranbabu/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/routhkiranbabu?ext=activity"
+         alt="LeetCode Activity"
+         style="width: 400px; height: auto;" />
+  </a>
+</p>
+
+I consistently practice **Data Structures & Algorithms** to enhance my ability to break down complex problems and design efficient solutions.  
+This habit directly improves my effectiveness in **test design, edge-case identification, and system thinking** as an SDET.
+
+**What this reflects:**
+- 🧠 Strong analytical & logical reasoning  
+- 🔁 Consistent daily problem-solving discipline  
+- ⏱ Awareness of time & space complexity  
+- 🛠 Practical application of DSA concepts in testing scenarios
+
+👉 **Visit My LeetCode Profile:**  
+https://leetcode.com/routhkiranbabu/
 
 <!--
 **RouthKiranBabu/RouthKiranBabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
