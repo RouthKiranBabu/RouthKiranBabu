@@ -1,5 +1,5 @@
 <!--https://github.com/saadpasta/developerFolio-->
-<h1 align="center">Hello 🤝, I'm Routh. Kiran Babu</h1>
+<h1 align="center">Hello <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="40" />, I'm Routh. Kiran Babu</h1>
 <h3 align="center">[🔍 SDET/QA Engineer] - 1+ Yrs Exp in Automation & Manual Testing 🔹 Java 🔹 Python 🔹 JavaScript 🔹 Cypress 🔹 Selenium 🔹 Playwright 🔹 K6 🔹 Appium 🔹 TestNG 🔹 Postman 🔹 RestAssured 🔹 JIRA 🔹 MySQL 🔹 Cucumber 🔹 LeetCode 🔹 EC Engineer</h3>
 
 # 👋 About Me
