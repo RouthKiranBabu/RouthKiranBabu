@@ -54,42 +54,6 @@ Let’s build better software together 🚀
  <!--Ask to the ChatGPT
  can you provide the tech stack badges to add in the github readme for the manual testing where I have experience with jira, excel, SDLC and STLC, functional and non functional, regression testing-->
 
-
-
-
-
-
-<h1 align="center">🔥 Strava Running Stats — Willpower Booster (Hobby)</h1>
-
-<p align="center">
-  <a href="https://routhkiranbabu.github.io/Strava_stats/" target="_blank">
-    <img src="https://img.shields.io/badge/STRAVA-FOR%20RUNNING-FC4C02?style=for-the-badge&logo=strava&logoColor=white&labelColor=3A3A3A" />
-  </a>
-</p>
-
-<p align="center">
-  <em>
-    This is <strong>not part of my primary professional role</strong> as an SDET,  
-    but a personal discipline-driven hobby that significantly strengthens  
-    <strong>willpower, consistency, and mental endurance</strong>.
-  </em>
-</p>
-
----
-
-Beyond software testing, I actively pursue **endurance running** and track my progress using Strava.  
-This project showcases a **live, data-driven dashboard** visualizing running consistency, distance trends, and long-term performance.
-
-I apply the same mindset from engineering—**measuring metrics, analyzing patterns, and continuous improvement**—to my fitness journey.
-
-**What this reflects:**
-- 🔥 Strong willpower & long-term discipline  
-- 📊 Data-driven self-improvement  
-- 🔁 Consistency beyond professional responsibilities  
-- 🌐 Deployed as a **GitHub Pages** dashboard
-
-👉 **Explore Live Strava Stats:** https://routhkiranbabu.github.io/Strava_stats/
-
 <h1 align="center">🚀 LeetCode Practice</h1>
 
 <p align="center">
@@ -253,9 +217,39 @@ I apply the same mindset from engineering—**measuring metrics, analyzing patte
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RouthKiranBabu&theme=dark&hide_border=false" alt="Stat 2" style="width: 400px; height: auto;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RouthKiranBabu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Stat 2" style="width: 400px; height: auto;">
 </div>
+</div>
+</div>
 
-</div>
-</div>
+<h1 align="center">🔥 Strava Running Stats — Willpower Booster (Hobby)</h1>
+
+<p align="center">
+  <a href="https://routhkiranbabu.github.io/Strava_stats/" target="_blank">
+    <img src="https://img.shields.io/badge/STRAVA-FOR%20RUNNING-FC4C02?style=for-the-badge&logo=strava&logoColor=white&labelColor=3A3A3A" />
+  </a>
+</p>
+
+<p align="center">
+  <em>
+    This is <strong>not part of my primary professional role</strong> as an SDET,  
+    but a personal discipline-driven hobby that significantly strengthens  
+    <strong>willpower, consistency, and mental endurance</strong>.
+  </em>
+</p>
+
+---
+
+Beyond software testing, I actively pursue **endurance running** and track my progress using Strava.  
+This project showcases a **live, data-driven dashboard** visualizing running consistency, distance trends, and long-term performance.
+
+I apply the same mindset from engineering—**measuring metrics, analyzing patterns, and continuous improvement**—to my fitness journey.
+
+**What this reflects:**
+- 🔥 Strong willpower & long-term discipline  
+- 📊 Data-driven self-improvement  
+- 🔁 Consistency beyond professional responsibilities  
+- 🌐 Deployed as a **GitHub Pages** dashboard
+
+👉 **Explore Live Strava Stats:** https://routhkiranbabu.github.io/Strava_stats/
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
