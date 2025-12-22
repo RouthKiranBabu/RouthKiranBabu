@@ -143,6 +143,40 @@ Let’s build better software together 🚀
   </a>
 </p>
 
+<h1 align="center">🧩 Mini & Major Projects</h1>
+
+<p align="center">
+  A practical showcase of hands-on engineering work built through structured learning,  
+  experimentation, and continuous improvement.
+</p>
+
+---
+
+### 🧠 SDET Skill Focus Reflected in These Projects
+- Designing **robust, maintainable test automation frameworks**
+- Strong understanding of **testing fundamentals & test strategy**
+- Applying **clean code principles** and reusable components
+- Validating **functional, edge, and negative scenarios**
+- Using projects to bridge **theory → real-world implementation**
+
+---
+
+<p align="center">
+  <a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/README.md#-projects-by-year--month" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Mini%20%26%20Major%20Projects-Explore%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>
+    Each project includes clear documentation, structured code, and learnings gained during development.
+  </em>
+</p>
+
+
+
 <div align='center'>
 
 <h1 align="center">🔥 Strava Running Stats — Willpower Booster (Hobby)</h1>
