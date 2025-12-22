@@ -189,19 +189,18 @@ I apply the same mindset from engineering—**measuring metrics, analyzing patte
 
 👉 **Explore Live Strava Stats:** https://routhkiranbabu.github.io/Strava_stats/
 
-<h2 align="center">🔥 LeetCode Problem Solving — Mental Sharpness Booster</h2>
+<h2 align="center">🚀 LeetCode Practice</h2>
 
 <p align="center">
   <a href="https://leetcode.com/routhkiranbabu/" target="_blank">
-    <img src="https://img.shields.io/badge/LEETCODE-PROBLEM%20SOLVING-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=3A3A3A" />
+    <img src="https://img.shields.io/badge/LEETCODE-DSA%20PRACTICE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=3A3A3A" />
   </a>
 </p>
 
 <p align="center">
   <em>
-    This is <strong>not part of my primary professional role</strong> as an SDET,  
-    but a continuous practice that strengthens  
-    <strong>logical thinking, patience, and problem-solving depth</strong>.
+    Regular DSA practice to sharpen <strong>problem-solving, edge-case thinking,</strong><br/>
+    and <strong>systematic test design</strong> as an SDET.
   </em>
 </p>
 
@@ -211,71 +210,74 @@ I apply the same mindset from engineering—**measuring metrics, analyzing patte
   <a href="https://leetcode.com/routhkiranbabu/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/routhkiranbabu?theme=dark&font=baloo&ext=heatmap"
          alt="LeetCode Stats"
-         style="width: 400px; height: auto;" />
+         width="380"/>
   </a>
   <a href="https://leetcode.com/routhkiranbabu/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/routhkiranbabu?ext=activity"
          alt="LeetCode Activity"
-         style="width: 400px; height: auto;" />
+         width="380"/>
   </a>
 </p>
 
-I consistently practice **Data Structures & Algorithms** to enhance my ability to break down complex problems and design efficient solutions.  
-This habit directly improves my effectiveness in **test design, edge-case identification, and system thinking** as an SDET.
+<p align="center">
+  <strong>Why this matters:</strong><br/>
+  🧠 Logical & analytical thinking &nbsp;•&nbsp;
+  ⏱ Time & space complexity awareness &nbsp;•&nbsp;
+  🛠 Better edge-case coverage in testing
+</p>
 
-**What this reflects:**
-- 🧠 Strong analytical & logical reasoning  
-- 🔁 Consistent daily problem-solving discipline  
-- ⏱ Awareness of time & space complexity  
-- 🛠 Practical application of DSA concepts in testing scenarios
-
-👉 **Visit My LeetCode Profile:** https://leetcode.com/routhkiranbabu/
-
-## 🧠 LeetCode Practice & Community Contributions
-
-I actively solve Data Structures and Algorithms problems on **LeetCode**, focusing on:
-- Clean, readable code
-- Optimized solutions
-- Clear explanations for learning and revision
-
-If any of my solutions help you, an **upvote is always appreciated** — it motivates me to keep contributing to the community.
+<p align="center">
+  👉 <a href="https://leetcode.com/routhkiranbabu/" target="_blank"><strong>View My LeetCode Profile</strong></a>
+</p>
 
 ---
 
-### 📌 How to Upvote a LeetCode Submission
+<h3 align="center">🤝 Community Contributions</h3>
 
 <p align="center">
-  <!-- Replace with your GIF path -->
+  I write <strong>clean, optimized solutions</strong> with clear explanations<br/>
+  to help others learn and revise effectively.
+</p>
+
+<p align="center">
+  If a solution helps you, an <strong>upvote</strong> is always appreciated 🙂
+</p>
+
+---
+
+<h3 align="center">📌 How to Upvote a Submission</h3>
+
+<p align="center">
   <img src="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/blob/main/Resources/Gifs/upVote.gif" 
        alt="How to upvote my LeetCode submission" 
        width="600"/>
 </p>
 
 <p align="center">
-  <em>Quick demo showing how to upvote a LeetCode solution</em>
+  <em>Quick demo: how to upvote a LeetCode solution</em>
 </p>
 
 ---
 
-### 🙌 Found the Solution Helpful?
+<h3 align="center">🙌 Found It Helpful?</h3>
 
 <p align="center">
-  <!-- Replace with your image path -->
   <img src="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/blob/main/Resources/Images/upVote.png" 
        alt="Please upvote my LeetCode submission" 
        width="450"/>
 </p>
 
 <p align="center">
-  ⭐ <strong>Your upvote helps my solutions reach more learners</strong><br/>
-  🚀 and encourages me to write better explanations and test-ready code.
+  ⭐ Your upvote helps more learners discover the solution<br/>
+  🚀 and motivates me to keep contributing
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/YOUR_USERNAME/submissions/" target="_blank">
-    <img src="https://img.shields.io/badge/Click%20Here%20to%20View%20All%20My%20LeetCode%20Submissions-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <a href="https://leetcode.com/routhkiranbabu/submissions/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All%20My%20LeetCode%20Submissions-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
+
 
 <!--
 **RouthKiranBabu/RouthKiranBabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
