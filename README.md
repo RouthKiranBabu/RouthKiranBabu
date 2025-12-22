@@ -231,6 +231,52 @@ This habit directly improves my effectiveness in **test design, edge-case identi
 
 👉 **Visit My LeetCode Profile:** https://leetcode.com/routhkiranbabu/
 
+## 🧠 LeetCode Practice & Community Contributions
+
+I actively solve Data Structures and Algorithms problems on **LeetCode**, focusing on:
+- Clean, readable code
+- Optimized solutions
+- Clear explanations for learning and revision
+
+If any of my solutions help you, an **upvote is always appreciated** — it motivates me to keep contributing to the community.
+
+---
+
+### 📌 How to Upvote a LeetCode Submission
+
+<p align="center">
+  <!-- Replace with your GIF path -->
+  <img src="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/blob/main/Resources/Gifs/upVote.gif" 
+       alt="How to upvote my LeetCode submission" 
+       width="600"/>
+</p>
+
+<p align="center">
+  <em>Quick demo showing how to upvote a LeetCode solution</em>
+</p>
+
+---
+
+### 🙌 Found the Solution Helpful?
+
+<p align="center">
+  <!-- Replace with your image path -->
+  <img src="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/blob/main/Resources/Images/upVote.png" 
+       alt="Please upvote my LeetCode submission" 
+       width="450"/>
+</p>
+
+<p align="center">
+  ⭐ <strong>Your upvote helps my solutions reach more learners</strong><br/>
+  🚀 and encourages me to write better explanations and test-ready code.
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/YOUR_USERNAME/submissions/" target="_blank">
+    <img src="https://img.shields.io/badge/Click%20Here%20to%20View%20All%20My%20LeetCode%20Submissions-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
 <!--
 **RouthKiranBabu/RouthKiranBabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
