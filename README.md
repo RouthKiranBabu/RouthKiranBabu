@@ -168,11 +168,14 @@ This project showcases a **live, data-driven dashboard** visualizing running con
 
 I apply the same mindset from engineering—**measuring metrics, analyzing patterns, and continuous improvement**—to my fitness journey.
 
+<div align="left">
+ 
 **What this reflects:**
 - 🔥 Strong willpower & long-term discipline  
 - 📊 Data-driven self-improvement  
 - 🔁 Consistency beyond professional responsibilities  
 - 🌐 Deployed as a **GitHub Pages** dashboard
+</div>
 
 👉 **Explore Live Strava Stats:** https://routhkiranbabu.github.io/Strava_stats/
 
