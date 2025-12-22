@@ -20,6 +20,7 @@
       <ul>
         <li><a href="https://github.com/RouthKiranBabu#-community-contributions">Community Contributions</a></li>
         <li><a href="https://github.com/RouthKiranBabu#-how-to-upvote-a-submission">How to Upvote a Submission</a></li>
+        <li>⭐ <a href="https://github.com/RouthKiranBabu#-found-it-helpful">Found it helpful? (Upvote)</a></li>
       </ul>
     </li>
     <li>🧩 <a href="https://github.com/RouthKiranBabu#-mini--major-projects">Mini & Major Projects</a></li>
