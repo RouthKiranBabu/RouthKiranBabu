@@ -179,7 +179,7 @@ Let’s build better software together 🚀
 
 <div align='center'>
 
-<h1 align="center">🔥 Strava Running Stats — Willpower Booster (Hobby)</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="40" height="40" />Strava Running Stats — Willpower Booster (Hobby)</h1>
 
 <p align="center">
   <a href="https://routhkiranbabu.github.io/Strava_stats/" target="_blank">
