@@ -273,7 +273,7 @@ I apply the same mindset from engineering—**measuring metrics, analyzing patte
 </p>
 
 <p align="center">
-  <a href="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/tree/main/Submissions/2025/12#-all-my-leetcode-solution-submissions" target="_blank">
+  <a href="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/blob/main/Submissions/README.md#-submissions-by-year--month" target="_blank">
     <img src="https://img.shields.io/badge/View%20All%20My%20LeetCode%20Submissions-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
