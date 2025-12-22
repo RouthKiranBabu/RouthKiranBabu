@@ -189,7 +189,7 @@ I apply the same mindset from engineering—**measuring metrics, analyzing patte
 
 👉 **Explore Live Strava Stats:** https://routhkiranbabu.github.io/Strava_stats/
 
-<h2 align="center">🚀 LeetCode Practice</h2>
+<h1 align="center">🚀 LeetCode Practice</h1>
 
 <p align="center">
   <a href="https://leetcode.com/routhkiranbabu/" target="_blank">
