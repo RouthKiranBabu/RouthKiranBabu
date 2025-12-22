@@ -285,8 +285,8 @@ I apply the same mindset from engineering—**measuring metrics, analyzing patte
   <img src="https://github-readme-stats.vercel.app/api?username=RouthKiranBabu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Stat 1" style="width: 400px; height: auto;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RouthKiranBabu&theme=dark&hide_border=false" alt="Stat 2" style="width: 400px; height: auto;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RouthKiranBabu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Stat 2" style="width: 400px; height: auto;">
-</div>
-</div>
+
+
 </div>
 
 
