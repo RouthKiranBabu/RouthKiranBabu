@@ -187,8 +187,7 @@ I apply the same mindset from engineering—**measuring metrics, analyzing patte
 - 🔁 Consistency beyond professional responsibilities  
 - 🌐 Deployed as a **GitHub Pages** dashboard
 
-👉 **Explore Live Strava Stats:**  
-https://routhkiranbabu.github.io/Strava_stats/
+👉 **Explore Live Strava Stats:** https://routhkiranbabu.github.io/Strava_stats/
 
 <h2 align="center">🔥 LeetCode Problem Solving — Mental Sharpness Booster</h2>
 
@@ -230,8 +229,7 @@ This habit directly improves my effectiveness in **test design, edge-case identi
 - ⏱ Awareness of time & space complexity  
 - 🛠 Practical application of DSA concepts in testing scenarios
 
-👉 **Visit My LeetCode Profile:**  
-https://leetcode.com/routhkiranbabu/
+👉 **Visit My LeetCode Profile:** https://leetcode.com/routhkiranbabu/
 
 <!--
 **RouthKiranBabu/RouthKiranBabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
