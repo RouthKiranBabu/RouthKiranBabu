@@ -1,3 +1,46 @@
+<details>
+  <summary>
+    <strong>📑 Table of Contents (Click to Expand)</strong>
+  </summary>
+  <br/>
+
+  <ul>
+    <li>👋 <a href="https://github.com/RouthKiranBabu#-about-me">About Me</a></li>
+    <li>🛠️ <strong>Testing & Automation Skills</strong>
+      <ul>
+        <li><a href="https://github.com/RouthKiranBabu#-automation-tools">Automation Tools</a></li>
+        <li><a href="https://github.com/RouthKiranBabu#-performance-testing">Performance Testing</a></li>
+        <li><a href="https://github.com/RouthKiranBabu#-api-testing">API Testing</a></li>
+        <li><a href="https://github.com/RouthKiranBabu#-frameworks--utilities">Frameworks & Utilities</a></li>
+        <li><a href="https://github.com/RouthKiranBabu#-bug-tracking--database">Bug Tracking & Database</a></li>
+        <li><a href="https://github.com/RouthKiranBabu#-languages-i-use">Languages</a></li>
+      </ul>
+    </li>
+    <li>🧠 <a href="https://github.com/RouthKiranBabu#-leetcode-practice">LeetCode Practice</a>
+      <ul>
+        <li><a href="https://github.com/RouthKiranBabu#-community-contributions">Community Contributions</a></li>
+        <li><a href="https://github.com/RouthKiranBabu#-how-to-upvote-a-submission">How to Upvote a Submission</a></li>
+      </ul>
+    </li>
+    <li>🧩 <a href="https://github.com/RouthKiranBabu#-mini--major-projects">Mini & Major Projects</a></li>
+    <li>🔥 <a href="https://github.com/RouthKiranBabu#strava-running-stats--willpower-booster-hobby">Strava Running Stats (Hobby)</a></li>
+    <li>🛠️ <a href="https://github.com/RouthKiranBabu#%EF%B8%8F-tech-stack">Tech Stack</a>
+      <ul>
+        <li><a href="https://github.com/RouthKiranBabu#-manual-testing">Manual Testing</a></li>
+        <li><a href="https://github.com/RouthKiranBabu#-cypress">Cypress</a></li>
+        <li><a href="https://github.com/RouthKiranBabu#-selenium">Selenium</a></li>
+        <li><a href="https://github.com/RouthKiranBabu#-playwright">Playwright</a></li>
+      </ul>
+    </li>
+    <li>📊 <a href="https://github.com/RouthKiranBabu#-github-stats">GitHub Stats</a></li>
+    <li>🌐 <a href="https://github.com/RouthKiranBabu#-connect--follow">Connect & Follow</a></li>
+  </ul>
+
+</details>
+
+<hr/>
+
+
 <!--https://github.com/saadpasta/developerFolio-->
 <h1 align="center">Hello <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="40" />, I'm Routh. Kiran Babu</h1>
 <h3 align="center">[🔍 SDET/QA Engineer] - 1+ Yrs Exp in Automation & Manual Testing 🔹 Java 🔹 Python 🔹 JavaScript 🔹 Cypress 🔹 Selenium 🔹 Playwright 🔹 K6 🔹 Appium 🔹 TestNG 🔹 Postman 🔹 RestAssured 🔹 JIRA 🔹 MySQL 🔹 Cucumber 🔹 LeetCode 🔹 EC Engineer</h3>
