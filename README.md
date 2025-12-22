@@ -158,7 +158,7 @@ Let’s build better software together 🚀
 
 
 
-<h2 align="center">🔥 Strava Running Stats — Willpower Booster (Hobby)</h2>
+<h1 align="center">🔥 Strava Running Stats — Willpower Booster (Hobby)</h1>
 
 <p align="center">
   <a href="https://routhkiranbabu.github.io/Strava_stats/" target="_blank">
