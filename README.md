@@ -25,7 +25,7 @@
     </li>
     <li>🧩 <a href="https://github.com/RouthKiranBabu#-mini--major-projects">Mini & Major Projects</a></li>
     <li>🔥 <a href="https://github.com/RouthKiranBabu#strava-running-stats--willpower-booster-hobby">Strava Running Stats (Hobby)</a></li>
-    <li>🎨 <a href="https://github.com/RouthKiranBabu/RouthKiranBabu/edit/main/README.md#-visual-engineering--debugging--clarity-booster">Visual Engineering & Debugging — Clarity Booster</a></li>
+    <li>🎨 <a href="https://github.com/RouthKiranBabu/RouthKiranBabu/blob/main/README.md#-visual-engineering--debugging--clarity-booster">Visual Engineering & Debugging — Clarity Booster</a></li>
     <li>🛠️ <a href="https://github.com/RouthKiranBabu#%EF%B8%8F-tech-stack">Tech Stack</a>
       <ul>
         <li><a href="https://github.com/RouthKiranBabu#-manual-testing">Manual Testing</a></li>
