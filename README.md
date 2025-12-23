@@ -319,64 +319,112 @@ I apply the same engineering mindset here as I do in testing—**measuring outco
 
 
  
-# 🛠️ Tech Stack
- 
- ### 📋 Manual Testing
-![Manual Testing](https://img.shields.io/badge/Testing-Manual%20Testing-blue?style=for-the-badge&logo=testing-library)
-![JIRA](https://img.shields.io/badge/Tool-JIRA-0052CC?style=for-the-badge&logo=jira)
-![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SDLC](https://img.shields.io/badge/Process-SDLC-blueviolet?style=for-the-badge)
-![STLC](https://img.shields.io/badge/Process-STLC-ff69b4?style=for-the-badge)
-![Functional Testing](https://img.shields.io/badge/Type-Functional%20Testing-success?style=for-the-badge)
-![Non-Functional Testing](https://img.shields.io/badge/Type-Non--Functional%20Testing-critical?style=for-the-badge)
-![Regression Testing](https://img.shields.io/badge/Type-Regression%20Testing-orange?style=for-the-badge)
-</div>
+<h1 align="center">🛠️ Tech Stack & Engineering Toolkit</h1>
 
-<div align='center'>
+<p align="center">
+  Tools, technologies, and platforms I actively use to build, test, automate, and communicate quality software.
+</p>
 
- ### 🤖 Cypress
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![Chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-292929?style=for-the-badge&logo=json&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-</div>
+---
+
+## 💻 Programming Languages
+
+<p align="center">
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-Official-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-Official-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-Official-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+</p>
+
+---
+
+## 🤖 Test Automation Frameworks
+
+<p align="center">
+  <a href="https://www.selenium.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Selenium-Official-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  </a>
+  <a href="https://www.cypress.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Cypress-Official-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  </a>
+  <a href="https://playwright.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Playwright-Official-E60073?style=for-the-badge&logo=playwright&logoColor=white" />
+  </a>
+  <a href="https://rest-assured.io/" target="_blank">
+    <img src="https://img.shields.io/badge/RestAssured-Official-6DB33F?style=for-the-badge&logo=swagger&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🔗 API & Performance Testing
+
+<p align="center">
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-Official-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  </a>
+  <a href="https://k6.io/" target="_blank">
+    <img src="https://img.shields.io/badge/K6-Performance%20Testing-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🗄️ Database & Backend Knowledge
+
+<p align="center">
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-Official-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 Problem Solving & Platforms
+
+<p align="center">
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Version%20Control-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🎨 Visual Communication & Reporting
+
+<p align="center">
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank">
+    <img src="https://img.shields.io/badge/DaVinci%20Resolve-Visual%20Debugging-000000?style=for-the-badge&logo=blackmagicdesign&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🏃 Discipline & Consistency (Hobby)
+
+<p align="center">
+  <a href="https://www.strava.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Strava-Endurance%20Tracking-FC4C02?style=for-the-badge&logo=strava&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>
+    Tools don’t define quality — disciplined engineering practices do.
+  </em>
+</p>
 
 
-<div align='center'>
- 
-### 🤖 Selenium
- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testing-library&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Apache POI](https://img.shields.io/badge/Apache%20POI-30758F?style=for-the-badge&logo=apache&logoColor=white)
-![Extent Reports](https://img.shields.io/badge/Extent--Reports-3C3C3C?style=for-the-badge&logo=report&logoColor=white)
-</div>
-
-<div align='center'>
-
-### 🤖 Playwright
-![Playwright](https://img.shields.io/badge/Playwright-%23E60073?style=for-the-badge&logo=playwright&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Testing](https://img.shields.io/badge/End--to--End%20Testing-999999?style=for-the-badge&logo=testinglibrary&logoColor=white)
-</div>
- 
-</div>
 
 <div align='center'>
  
