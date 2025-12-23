@@ -450,21 +450,61 @@ I apply the same engineering mindset here as I do in testing—**measuring outco
 
 
 
-<div align='center'>
- 
-# 📊 GitHub Stats:
-<!--Stats Stays side by side-->
-<!--
-![](https://github-readme-stats.vercel.app/api?username=RouthKiranBabu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=RouthKiranBabu&theme=dark&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=RouthKiranBabu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
--->
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=RouthKiranBabu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Stat 1" style="width: 400px; height: auto;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RouthKiranBabu&theme=dark&hide_border=false" alt="Stat 2" style="width: 400px; height: auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RouthKiranBabu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Stat 2" style="width: 400px; height: auto;">
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" />📊 GitHub Activity & Engineering Consistency</h1>
 
+<p align="center">
+  <em>
+    A snapshot of my consistency, language usage, and long-term contribution habits on GitHub.
+  </em>
+</p>
 
+---
+
+<div align="center">
+  <a href="https://github.com/RouthKiranBabu" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=RouthKiranBabu&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"
+      alt="GitHub Stats"
+      width="380"
+    />
+  </a>
+
+  <a href="https://github.com/RouthKiranBabu" target="_blank">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=RouthKiranBabu&theme=dark&hide_border=true"
+      alt="GitHub Streak"
+      width="380"
+    />
+  </a>
 </div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/RouthKiranBabu" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RouthKiranBabu&theme=dark&hide_border=true&layout=compact"
+      alt="Top Languages"
+      width="500"
+    />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <strong>Why this matters for an SDET:</strong><br/>
+  🧠 Consistent problem-solving &nbsp;•&nbsp;
+  🔁 Incremental improvements &nbsp;•&nbsp;
+  🛠 Real-world engineering practice
+</p>
+
+<p align="center">
+  <em>
+    Quality engineering is built through consistency, not shortcuts.
+  </em>
+</p>
+
 
 
 <h2 align="center">🌐 Connect & Follow</h2>
