@@ -26,12 +26,15 @@
     <li>🧩 <a href="https://github.com/RouthKiranBabu#-mini--major-projects">Mini & Major Projects</a></li>
     <li>🔥 <a href="https://github.com/RouthKiranBabu#strava-running-stats--willpower-booster-hobby">Strava Running Stats (Hobby)</a></li>
     <li>🎨 <a href="https://github.com/RouthKiranBabu#-visual-engineering--debugging--clarity-booster">Visual Engineering & Debugging — Clarity Booster</a></li>
-    <li>🛠️ <a href="https://github.com/RouthKiranBabu#%EF%B8%8F-tech-stack">Tech Stack</a>
+    <li>🛠️ <a href="https://github.com/RouthKiranBabu#%EF%B8%8F-tech-stack--engineering-toolkit">🛠️ Tech Stack & Engineering Toolkit</a>
       <ul>
-        <li><a href="https://github.com/RouthKiranBabu#-manual-testing">Manual Testing</a></li>
-        <li><a href="https://github.com/RouthKiranBabu#-cypress">Cypress</a></li>
-        <li><a href="https://github.com/RouthKiranBabu#-selenium">Selenium</a></li>
-        <li><a href="https://github.com/RouthKiranBabu#-playwright">Playwright</a></li>
+        <li><a href="https://github.com/RouthKiranBabu#-programming-languages">💻 Programming Languages</a></li>
+        <li><a href="https://github.com/RouthKiranBabu#-test-automation-frameworks">🤖 Test Automation Frameworks</a></li>
+        <li><a href="https://github.com/RouthKiranBabu#-api--performance-testing">🔗 API & Performance Testing</a></li>
+        <li><a href="https://github.com/RouthKiranBabu#%EF%B8%8F-database--backend-knowledge">🗄️ Database & Backend Knowledge</a></li>
+        <li><a href="https://github.com/RouthKiranBabu#-problem-solving--platforms">🧠 Problem Solving & Platforms</a></li>
+        <li><a href="https://github.com/RouthKiranBabu#-visual-communication--reporting">🎨 Visual Communication & Reporting</a></li>
+        <li><a href="https://github.com/RouthKiranBabu#-discipline--consistency-hobby">🏃 Discipline & Consistency (Hobby)</a></li>
       </ul>
     </li>
     <li>📊 <a href="https://github.com/RouthKiranBabu#-github-stats">GitHub Stats</a></li>
