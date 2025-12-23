@@ -38,7 +38,7 @@
         <li><a href="https://github.com/RouthKiranBabu#-discipline--consistency-hobby">🏃 Discipline & Consistency (Hobby)</a></li>
       </ul>
     </li>
-    <li>📊 <a href="https://github.com/RouthKiranBabu#-github-stats">GitHub Stats</a></li>
+    <li>📊 <a href="https://github.com/RouthKiranBabu#-github-activity--engineering-consistency">GitHub Activity & Engineering Consistency</a></li>
     <li>🌐 <a href="https://github.com/RouthKiranBabu#-connect--follow">Connect & Follow</a></li>
   </ul>
 
