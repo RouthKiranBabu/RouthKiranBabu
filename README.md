@@ -25,6 +25,7 @@
     </li>
     <li>🧩 <a href="https://github.com/RouthKiranBabu#-mini--major-projects">Mini & Major Projects</a></li>
     <li>🔥 <a href="https://github.com/RouthKiranBabu#strava-running-stats--willpower-booster-hobby">Strava Running Stats (Hobby)</a></li>
+    <li>🎨 <a href="https://github.com/RouthKiranBabu/RouthKiranBabu/edit/main/README.md#-visual-engineering--debugging--clarity-booster">Visual Engineering & Debugging — Clarity Booster</a></li>
     <li>🛠️ <a href="https://github.com/RouthKiranBabu#%EF%B8%8F-tech-stack">Tech Stack</a>
       <ul>
         <li><a href="https://github.com/RouthKiranBabu#-manual-testing">Manual Testing</a></li>
@@ -256,6 +257,66 @@ I apply the same mindset from engineering—**measuring metrics, analyzing patte
 </div>
 
 👉 **Explore Live Strava Stats:** https://routhkiranbabu.github.io/Strava_stats/
+
+
+<h1 align="center">🎨 Visual Engineering & Debugging — Clarity Booster</h1>
+
+<p align="center">
+  <em>
+    This is not part of my primary professional role as an <strong>SDET</strong>, but a complementary skill  
+    that significantly improves <strong>bug communication, code explanation, and documentation clarity</strong>.
+  </em>
+</p>
+
+---
+
+Beyond writing and executing test cases, I actively use **DaVinci Resolve** to create  
+**high-quality animations, walkthrough videos, GIFs, and PNG visuals** that make  
+complex bugs, automation flows, and test results **easy to understand and quick to reproduce**.
+
+I leverage visual storytelling to bridge the gap between **developers, testers, and non-technical stakeholders**,  
+turning abstract issues into **clear, actionable insights**.
+
+I apply the same engineering mindset here as I do in testing—**measuring outcomes, analyzing patterns, and continuously improving clarity**.
+
+---
+
+<div align="left">
+  
+### 🔍 Where This Skill Adds Real Value
+- Visual bug reproduction instead of long text descriptions  
+- Clear explanation of automation failures and workflows  
+- Improved test documentation and reviewer engagement  
+- Faster alignment between QA, development, and product teams
+</div>
+
+---
+
+<div align="left">
+  
+### 🧠 What This Reflects
+🔥 Strong attention to detail  
+🎥 Visual-first problem explanation  
+🧩 Faster debugging and issue resolution  
+🤝 Better cross-team communication  
+🚀 Higher-quality technical documentation  
+</div>
+
+---
+
+<p align="center">
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank">
+    <img src="https://img.shields.io/badge/DaVinci%20Resolve-Official%20Website-000000?style=for-the-badge&logo=blackmagicdesign&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <em>
+    Clear visuals reduce ambiguity — and ambiguity is the enemy of quality software.
+  </em>
+</p>
+
+
 
  
 # 🛠️ Tech Stack
