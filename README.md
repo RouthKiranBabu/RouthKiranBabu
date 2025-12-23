@@ -346,20 +346,39 @@ I apply the same engineering mindset here as I do in testing—**measuring outco
 
 ---
 
+## 📋 Manual Testing & QA Fundamentals
+
+<p align="center">
+  <a href="https://www.guru99.com/software-testing.html" target="_blank">
+    <img src="https://img.shields.io/badge/Manual%20Testing-QA%20Fundamentals-1E90FF?style=for-the-badge" />
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://img.shields.io/badge/JIRA-Bug%20Tracking-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  </a>
+  <a href="https://www.atlassian.com/software/confluence" target="_blank">
+    <img src="https://img.shields.io/badge/Confluence-Documentation-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🤖 Test Automation Frameworks
 
 <p align="center">
   <a href="https://www.selenium.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Selenium-Official-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Selenium-Web%20Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   </a>
   <a href="https://www.cypress.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Cypress-Official-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cypress-Modern%20Automation-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   </a>
   <a href="https://playwright.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Playwright-Official-E60073?style=for-the-badge&logo=playwright&logoColor=white" />
+    <img src="https://img.shields.io/badge/Playwright-End--to--End%20Testing-E60073?style=for-the-badge&logo=playwright&logoColor=white" />
+  </a>
+  <a href="https://cucumber.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Cucumber-BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=black" />
   </a>
   <a href="https://rest-assured.io/" target="_blank">
-    <img src="https://img.shields.io/badge/RestAssured-Official-6DB33F?style=for-the-badge&logo=swagger&logoColor=white" />
+    <img src="https://img.shields.io/badge/RestAssured-API%20Automation-6DB33F?style=for-the-badge&logo=swagger&logoColor=white" />
   </a>
 </p>
 
@@ -369,7 +388,7 @@ I apply the same engineering mindset here as I do in testing—**measuring outco
 
 <p align="center">
   <a href="https://www.postman.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Postman-Official-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   </a>
   <a href="https://k6.io/" target="_blank">
     <img src="https://img.shields.io/badge/K6-Performance%20Testing-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
@@ -382,7 +401,7 @@ I apply the same engineering mindset here as I do in testing—**measuring outco
 
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-Official-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   </a>
 </p>
 
@@ -423,9 +442,10 @@ I apply the same engineering mindset here as I do in testing—**measuring outco
 
 <p align="center">
   <em>
-    Tools don’t define quality — disciplined engineering practices do.
+    Quality is not accidental — it is engineered through disciplined testing and clear communication.
   </em>
 </p>
+
 
 
 
