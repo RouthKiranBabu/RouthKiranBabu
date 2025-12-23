@@ -29,6 +29,7 @@
     <li>🛠️ <a href="https://github.com/RouthKiranBabu#%EF%B8%8F-tech-stack--engineering-toolkit">🛠️ Tech Stack & Engineering Toolkit</a>
       <ul>
         <li><a href="https://github.com/RouthKiranBabu#-programming-languages">💻 Programming Languages</a></li>
+        <li><a href="https://github.com/RouthKiranBabu#-manual-testing--qa-fundamentals">📋 Manual Testing & QA Fundamentals</a></li>
         <li><a href="https://github.com/RouthKiranBabu#-test-automation-frameworks">🤖 Test Automation Frameworks</a></li>
         <li><a href="https://github.com/RouthKiranBabu#-api--performance-testing">🔗 API & Performance Testing</a></li>
         <li><a href="https://github.com/RouthKiranBabu#%EF%B8%8F-database--backend-knowledge">🗄️ Database & Backend Knowledge</a></li>
