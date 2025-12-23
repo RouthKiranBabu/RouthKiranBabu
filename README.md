@@ -450,7 +450,7 @@ I apply the same engineering mindset here as I do in testing—**measuring outco
 
 
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" />📊 GitHub Activity & Engineering Consistency</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="35" height="35" /> GitHub Activity & Engineering Consistency</h1>
 
 <p align="center">
   <em>
