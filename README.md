@@ -214,11 +214,13 @@ Let’s build better software together 🚀
 
 ---
 
-<p align="center">
-  <a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/README.md#-projects-by-year--month" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20Mini%20%26%20Major%20Projects-Explore%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+[![All Project Submissions](https://img.shields.io/badge/📊%20All%20Project%20Submissions-Year%20%26%20Month-blue?style=for-the-badge&logo=github)](https://github.com/RouthKiranBabu/Mini_Major--Projects./blob/main/README.md#-projects-by-year--month)
+&nbsp;&nbsp;&nbsp;
+[![Current Month Projects](https://img.shields.io/badge/🔥%20Current%20Month-Project%20Submissions-orange?style=for-the-badge&logo=github)](https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2025/12_Means_December)
+
+</div>
 
 ---
 
