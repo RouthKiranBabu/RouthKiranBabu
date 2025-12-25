@@ -48,8 +48,14 @@
 
 
 <!--https://github.com/saadpasta/developerFolio-->
-<h1 align="center">Hello <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="40" />, I'm Routh. Kiran Babu</h1>
-<h3 align="center">[🔍 SDET/QA Engineer] - 1+ Yrs Exp in Automation & Manual Testing 🔹 Java 🔹 Python 🔹 JavaScript 🔹 Cypress 🔹 Selenium 🔹 Playwright 🔹 K6 🔹 Appium 🔹 TestNG 🔹 Postman 🔹 RestAssured 🔹 JIRA 🔹 MySQL 🔹 Cucumber 🔹 LeetCode 🔹 EC Engineer</h3>
+<p align="center">
+🔹 <b>SDET / QA Engineer</b> | 1+ Yr Exp | Automation & Manual Testing | Java | Python | JavaScript | Selenium | Cypress | Playwright | Appium 🔹
+</p>
+<p align="center">
+💻 Tools & Projects: TestNG | Cucumber | RestAssured | Postman | K6 | JIRA | MySQL | DaVinci Resolve | Strava | Mini/Major Projects on <a href="https://www.linkedin.com/in/routhkiranbabu/">LinkedIn</a> | LeetCode Solution <a href="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/blob/main/Submissions/README.md#-submissions-by-year--month">Submission</a> 🔹
+</p>
+
+
 
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> About Me</h1>
 
