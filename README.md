@@ -48,14 +48,13 @@
 
 
 <!--https://github.com/saadpasta/developerFolio-->
+
 <p align="center">
-🔹 <b>SDET / QA Engineer</b> | 1+ Yr Exp | Automation & Manual Testing | Java | Python | JavaScript | Selenium | Cypress | Playwright | Appium 🔹
+🔹 <b>SDET / QA Engineer</b> | <b>1+ Yr Exp</b> | <i>Automation & Manual Testing</i> | <b>Java</b> | <b>Python</b> | <b>JavaScript</b> | <b>Selenium</b> | <b>Cypress</b> | <b>Playwright</b> | <b>Appium</b> 🔹
 </p>
 <p align="center">
-💻 Tools & Projects: TestNG | Cucumber | RestAssured | Postman | K6 | JIRA | MySQL | DaVinci Resolve | Strava | Mini/Major Projects on <a href="https://www.linkedin.com/in/routhkiranbabu/">LinkedIn</a> | LeetCode Solution <a href="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/blob/main/Submissions/README.md#-submissions-by-year--month">Submission</a> 🔹
+💻 <i>Tools & Projects:</i> <b>TestNG</b> | <b>Cucumber</b> | <b>RestAssured</b> | <b>Postman</b> | <b>K6</b> | <b>JIRA</b> | <b>MySQL</b> | <i>DaVinci Resolve</i> | <i>Strava</i> | <b>Mini/Major Projects</b> on <a href="https://www.linkedin.com/in/routhkiranbabu/">LinkedIn</a> | <b>LeetCode Solution <a href="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/blob/main/Submissions/README.md#-submissions-by-year--month">Submission</a></b> 🔹
 </p>
-
-
 
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> About Me</h1>
 
