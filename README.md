@@ -127,13 +127,14 @@ Let’s build better software together 🚀
 
 <p align="center">
   <a href="https://leetcode.com/routhkiranbabu/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/routhkiranbabu?theme=dark&font=baloo&ext=heatmap"
-         alt="LeetCode Stats"
-         width="380"/>
-  </a>
   <a href="https://leetcode.com/routhkiranbabu/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/routhkiranbabu?ext=activity"
          alt="LeetCode Activity"
+         width="380"/>
+  </a>
+  <a href="https://leetcode.com/routhkiranbabu/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/routhkiranbabu?theme=dark&font=baloo&ext=heatmap"
+         alt="LeetCode Stats"
          width="380"/>
   </a>
 </p>
