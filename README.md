@@ -1,3 +1,31 @@
+<h1 align="center">🚀 <b>Software Development Engineer in Test (SDET)</b></h1>
+
+<p align="center">
+  <i>Designing Scalable Automation Frameworks</i> • <b>Faster Regression</b> • <b>High-Quality Releases</b>
+</p>
+
+<p align="center">
+  💼 <b>1+ Year Experience</b> | <i>Web • API • Mobile Automation</i>
+</p>
+
+<p align="center">
+  🛠 <b>Java</b> | <b>Python</b> | <b>JavaScript</b> | Selenium | Playwright | Cypress | Appium
+</p>
+
+<p align="center">
+  📊 TestNG | Cucumber | RestAssured | Postman | K6 | <b>CI/CD</b> | JIRA | MySQL
+</p>
+
+<p align="center">
+  📌 <b>Real-World Automation Projects</b> • <i>Framework Design</i> • <i>Execution Proof</i>
+</p>
+
+<p align="center">
+  🔹 <b>Mini & Major Projects (LinkedIn)</b> • <b>LeetCode Solutions</b> • Strava • DaVinci Resolve
+</p>
+
+---
+
 <details>
   <summary>
     <strong>📑 Table of Contents (Click to Expand)</strong>
@@ -47,14 +75,6 @@
 <hr/>
 
 
-<!--https://github.com/saadpasta/developerFolio-->
-
-<p align="center">
-🔹 <b>SDET / QA Engineer</b> | <b>1+ Yr Exp</b> | <i>Automation & Manual Testing</i> | <b>Java</b> | <b>Python</b> | <b>JavaScript</b> | <b>Selenium</b> | <b>Cypress</b> | <b>Playwright</b> | <b>Appium</b> 🔹
-</p>
-<p align="center">
-💻 <i>Tools & Projects:</i> <b>TestNG</b> | <b>Cucumber</b> | <b>RestAssured</b> | <b>Postman</b> | <b>K6</b> | <b>JIRA</b> | <b>MySQL</b> | <i>DaVinci Resolve</i> | <i>Strava</i> | <b>Mini/Major Projects</b> on <a href="https://www.linkedin.com/in/routhkiranbabu/">LinkedIn</a> | <b>LeetCode Solution <a href="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/blob/main/Submissions/README.md#-submissions-by-year--month">Submission</a></b> 🔹
-</p>
 
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> About Me</h1>
 
