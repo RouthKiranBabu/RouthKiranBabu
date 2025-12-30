@@ -355,7 +355,7 @@ I apply the same engineering mindset here as I do in testing—**measuring outco
 
 
  
-<h1 align="center">🛠️ Tech Stack & Engineering Toolkit</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="40" height="40" /> Tech Stack & Engineering Toolkit</h1>
 
 <p align="center">
   Tools, technologies, and platforms I actively use to build, test, automate, and communicate quality software.
