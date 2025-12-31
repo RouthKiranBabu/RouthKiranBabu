@@ -296,12 +296,16 @@ I apply the same mindset from engineering—**measuring metrics, analyzing patte
 <div align="center">
 
 <a href="https://routhkiranbabu.github.io/Strava_stats/#overall-achievements" target="_blank">
-  <img src="https://img.shields.io/badge/Overall%20Strava%20Achievements-Yearly%20%26%20Monthly%20Summary-1f6feb?style=for-the-badge&logo=strava&logoColor=white" />
+  <img src="https://img.shields.io/badge/Overall%20Strava%20Achievements-Yearly%20%26%20Monthly%20Summary-1f6feb?style=for-the-badge&logo=strava&logoColor=white" height="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://routhkiranbabu.github.io/Strava_stats/#current-month-achievements" target="_blank">
-  <img src="https://img.shields.io/badge/Current%20Month%20Achievements-Challenges%20%26%20Goals%20Completed-f97316?style=for-the-badge&logo=strava&logoColor=white" />
+  <img src="https://img.shields.io/badge/Current%20Month%20Achievements-Challenges%2FGoals%20Completed-f97316?style=for-the-badge&logo=strava&logoColor=white" />
 </a>
+<!--
+<a href="https://routhkiranbabu.github.io/Strava_stats/#current-month-achievements" target="_blank">
+  <img src="https://img.shields.io/badge/Current%20Month%20Achievements-Challenges%20%26%20Goals%20Completed-f97316?style=for-the-badge&logo=strava&logoColor=white" />
+</a>-->
 </div>
 
 
