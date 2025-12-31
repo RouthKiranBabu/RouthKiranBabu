@@ -295,7 +295,7 @@ I apply the same mindset from engineering—**measuring metrics, analyzing patte
 
 <div align="center">
 
-<a href="https://routhkiranbabu.github.io/Strava_stats/#overall-achievements" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Strava_stats/blob/main/Yearly_Monthly.md#-yearly--monthly-summary-report" target="_blank">
   <img src="https://img.shields.io/badge/Achievements-Yearly%20%26%20Monthly%20Summary-1f6feb?style=for-the-badge&logo=strava&logoColor=white" height="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;
