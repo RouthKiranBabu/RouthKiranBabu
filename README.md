@@ -264,9 +264,10 @@ Let’s build better software together 🚀
 
 <p align="center">
   <a href="https://routhkiranbabu.github.io/Strava_stats/" target="_blank">
-    <img src="https://img.shields.io/badge/STRAVA-FOR%20RUNNING-FC4C02?style=for-the-badge&logo=strava&logoColor=white&labelColor=3A3A3A" />
+    <img src="https://img.shields.io/badge/Live%20Strava%20Stats-Daily%20Running%20Activity%20Dashboard-FC4C02?style=for-the-badge&logo=strava&logoColor=white&labelColor=3A3A3A" />
   </a>
 </p>
+
 
 <p align="center">
   <em>
