@@ -216,7 +216,7 @@ Let’s build better software together 🚀
 
 [![All Submissions](https://img.shields.io/badge/📊%20All%20Submissions-Year%20%26%20Month-blue?style=for-the-badge&logo=leetcode)](https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/blob/main/Submissions/README.md#-submissions-by-year--month)
 &nbsp;&nbsp;&nbsp;
-[![Current Month](https://img.shields.io/badge/🔥%20Current%20Month-Submissions-orange?style=for-the-badge&logo=leetcode)](https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/tree/main/Submissions/2025/12#-all-my-leetcode-solution-submissions)
+[![Current Month](https://img.shields.io/badge/🔥%20Current%20Month-Submissions-orange?style=for-the-badge&logo=leetcode)](https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/blob/main/Submissions/2026/01/README.md#-all-my-leetcode-solution-submissions)
 
 </div>
 
