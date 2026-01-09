@@ -358,7 +358,7 @@ I apply the same engineering mindset here as I do in testing—**measuring outco
     <img src="https://img.shields.io/badge/DaVinci%20Resolve-Official%20Website-000000?style=for-the-badge&logo=blackmagicdesign&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="YOUR_DAVINCI_COLLECTION_LINK_HERE" target="_blank">
+  <a href="https://github.com/RouthKiranBabu/DaVinci_Resolve" target="_blank">
     <img src="https://img.shields.io/badge/DaVinci%20Collections-GIFs%20%7C%20Videos%20%7C%20Edits-1E90FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
