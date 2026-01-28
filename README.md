@@ -453,18 +453,6 @@ I apply the same engineering mindset here as I do in testing—**measuring outco
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   </a>
-</p>
-
----
-
----
-
-## 🗄️ Database & Backend Knowledge
-
-<p align="center">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  </a>
   &nbsp;&nbsp;
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/Express.js-Backend-000000?style=for-the-badge&logo=express&logoColor=white" />
