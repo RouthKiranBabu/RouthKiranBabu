@@ -1,28 +1,14 @@
+---
+
 <h1 align="center">🚀 <b>Software Development Engineer in Test (SDET)</b></h1>
 
-<p align="center">
-  <i>Designing Scalable Automation Frameworks</i> • <b>Faster Regression</b> • <b>High-Quality Releases</b>
-</p>
-
-<p align="center">
-  💼 <b>1+ Year Experience</b> | <i>Web • API • Mobile Automation</i>
-</p>
-
-<p align="center">
-  🛠 <b>Java</b> | <b>Python</b> | <b>JavaScript</b> | Selenium | Playwright | Cypress | Appium
-</p>
-
-<p align="center">
-  📊 TestNG | Cucumber | RestAssured | Postman | K6 | <b>CI/CD</b> | JIRA | MySQL
-</p>
-
-<p align="center">
-  📌 <b>Real-World Automation Projects</b> • <i>Framework Design</i> • <i>Execution Proof</i>
-</p>
-
-<p align="center">
-  🔹 <b>Mini & Major Projects (LinkedIn)</b> • <b>LeetCode Solutions</b> • Strava • DaVinci Resolve
-</p>
+<p align="center"><b>💻 Programming:</b> Java • Python • JavaScript</p>
+<p align="center"><b>📋 Manual QA:</b> Test Cases • Scenarios • Bug Lifecycle • Smoke • Regression</p>
+<p align="center"><b>🤖 Automation:</b> Selenium • Playwright • Cypress • Appium • TestNG • Cucumber</p>
+<p align="center"><b>🔗 API & Performance:</b> RestAssured • Postman • K6</p>
+<p align="center"><b>🗄️ Database & Backend:</b> MySQL • Express.js</p>
+<p align="center"><b>🧠 Platforms & Discipline:</b> LeetCode • GitHub • Strava • JIRA</p>
+<p align="center"><b>🎨 Reporting & Communication:</b> Dashboards • Test Reports • Visual Insights</p>
 
 ---
 
