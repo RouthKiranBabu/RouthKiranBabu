@@ -288,7 +288,7 @@ I apply the same mindset from engineering—**measuring metrics, analyzing patte
   <img src="https://img.shields.io/badge/Achievements-Yearly%20%26%20Monthly%20Summary-1f6feb?style=for-the-badge&logo=strava&logoColor=white" height="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/RouthKiranBabu/Strava_stats/tree/main/Yearly_Monthly%20-%20Report/Year_2026/Month_01" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Strava_stats/tree/main/Yearly_Monthly%20-%20Report/Year_2026/Month_02" target="_blank">
   <img src="https://img.shields.io/badge/Monthly%20Summary-Challenges%2FGoals%20Completed-f97316?style=for-the-badge&logo=strava&logoColor=white" />
 </a>
 </div>
