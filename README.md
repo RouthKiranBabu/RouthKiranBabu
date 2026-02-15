@@ -47,7 +47,8 @@
         <li><a href="https://github.com/RouthKiranBabu#-manual-testing--qa-fundamentals">📋 Manual Testing & QA Fundamentals</a></li>
         <li><a href="https://github.com/RouthKiranBabu#-test-automation-frameworks">🤖 Test Automation Frameworks</a></li>
         <li><a href="https://github.com/RouthKiranBabu#-api--performance-testing">🔗 API & Performance Testing</a></li>
-        <li><a href="https://github.com/RouthKiranBabu#%EF%B8%8F-database--backend-knowledge">🗄️ Database & Backend Knowledge</a></li>
+        <li><a href="https://github.com/RouthKiranBabu#-mern-stack-full-stack-engineering">🌐 MERN Stack (Full-Stack Engineering)</a></li>
+        <li><a href="https://github.com/RouthKiranBabu#%EF%B8%8F-database">🗄️ Database</a></li>
         <li><a href="https://github.com/RouthKiranBabu#-problem-solving--platforms">🧠 Problem Solving & Platforms</a></li>
         <li><a href="https://github.com/RouthKiranBabu#-visual-communication--reporting">🎨 Visual Communication & Reporting</a></li>
         <li><a href="https://github.com/RouthKiranBabu#-discipline--consistency-hobby">🏃 Discipline & Consistency (Hobby)</a></li>
