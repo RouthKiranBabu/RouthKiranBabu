@@ -42,7 +42,7 @@
       </ul>
     </li>
     <li>🧩 <a href="https://github.com/RouthKiranBabu#-mini--major-projects">Mini & Major Projects</a></li>
-    <li>🚀 <a href="https://github.com/RouthKiranBabu#-mern-engineering-mini-role--full-stack--sdet-mindset">MERN Engineering (Mini Role) — Full Stack + SDET Mindset</a></li>
+    <li>💻 <a href="https://github.com/RouthKiranBabu#-mern-engineering-mini-role--full-stack--sdet-mindset">MERN Engineering (Mini Role) — Full Stack + SDET Mindset</a></li>
     <li>🔥 <a href="https://github.com/RouthKiranBabu#strava-running-stats--willpower-booster-hobby">Strava Running Stats (Hobby)</a></li>
     <li>🎨 <a href="https://github.com/RouthKiranBabu#-visual-engineering--debugging--clarity-booster">Visual Engineering & Debugging — Clarity Booster</a></li>
     <li>🛠️ <a href="https://github.com/RouthKiranBabu#-tech-stack--engineering-toolkit"> Tech Stack & Engineering Toolkit</a>
