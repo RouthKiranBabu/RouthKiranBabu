@@ -6,7 +6,11 @@
 <p align="center"><b>📋 Manual QA:</b> Test Cases • Scenarios • Bug Lifecycle • Smoke • Regression</p>
 <p align="center"><b>🤖 Automation:</b> Selenium • Playwright • Cypress • Appium • TestNG • Cucumber</p>
 <p align="center"><b>🔗 API & Performance:</b> RestAssured • Postman • K6</p>
-<p align="center"><b>🗄️ Database & Backend:</b> MySQL • MongoDB • Express.js</p>
+
+<p align="center"><b>🌐 MERN (Mini Role - Full Stack):</b> MongoDB • Express.js • React • Node.js</p>
+<p align="center"><b>🚀 Deployment & Auth:</b> Render • JWT • NPM</p>
+
+<p align="center"><b>🗄️ Databases:</b> MySQL • MongoDB</p>
 <p align="center"><b>🧠 Platforms & Discipline:</b> LeetCode • GitHub • Strava • JIRA</p>
 <p align="center"><b>🎨 Reporting & Communication:</b> Dashboards • Test Reports • Visual Insights</p>
 
