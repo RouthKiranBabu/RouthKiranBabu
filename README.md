@@ -311,7 +311,7 @@ This mini role helps me bridge the gap between:
 
 <div align="center">
 
-<a href="PASTE_YOUR_MERN_PROJECTS_FOLDER_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/MERN--Projects./blob/main/README.md#-mern-projects--index" target="_blank">
   <img src="https://img.shields.io/badge/🔥%20View%20My%20MERN%20Projects-Full%20Stack%20Apps%20%7C%20APIs%20%7C%20Deployment-orange?style=for-the-badge&logo=github&logoColor=white" height="45"/>
 </a>
 &nbsp;&nbsp;
