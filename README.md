@@ -315,7 +315,7 @@ This mini role helps me bridge the gap between:
   <img src="https://img.shields.io/badge/🔥%20View%20My%20MERN%20Projects-Full%20Stack%20Apps%20%7C%20APIs%20%7C%20Deployment-orange?style=for-the-badge&logo=github&logoColor=white" height="45"/>
 </a>
 &nbsp;&nbsp;
-<a href="PASTE_YOUR_LATEST_DEPLOYED_NOTES_APP_REPO_LINK_HERE" target="_blank">
+<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)#-live-demo" target="_blank">
   <img src="https://img.shields.io/badge/📝%20Latest%20Deployment-ThinkBoard%20Notes%20App%20(MERN)-1f6feb?style=for-the-badge&logo=render&logoColor=white" height="45"/>
 </a>
 
