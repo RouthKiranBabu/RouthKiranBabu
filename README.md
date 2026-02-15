@@ -252,7 +252,7 @@ Let’s build better software together 🚀
 
 
 
-<h1 align="center">🚀 MERN Engineering (Mini Role) — Full Stack + SDET Mindset</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="50" height="50" /> MERN Engineering (Mini Role) — Full Stack + SDET Mindset</h1>
 
 <p align="center">
   <em>
