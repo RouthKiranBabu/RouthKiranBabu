@@ -7,7 +7,7 @@
 <p align="center"><b>🤖 Automation:</b> Selenium • Playwright • Cypress • Appium • TestNG • Cucumber</p>
 <p align="center"><b>🔗 API & Performance:</b> RestAssured • Postman • K6</p>
 
-<p align="center"><b>🌐 MERN (Mini Role - Full Stack):</b> MongoDB • Express.js • React • Node.js</p>
+<p align="center"><b>💻 MERN (Mini Role - Full Stack):</b> MongoDB • Express.js • React • Node.js</p>
 <p align="center"><b>🚀 Deployment & Auth:</b> Render • JWT • NPM</p>
 
 <p align="center"><b>🗄️ Databases:</b> MySQL • MongoDB</p>
