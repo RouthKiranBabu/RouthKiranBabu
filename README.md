@@ -540,22 +540,53 @@ I apply the same engineering mindset here as I do in testing—**measuring outco
 
 ---
 
-## 🗄️ Database & Backend Knowledge
+## 🌐 MERN Stack (Full-Stack Engineering)
 
 <p align="center">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-Database%20(Atlas)-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Express.js-Backend-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-Backend%20API-000000?style=for-the-badge&logo=express&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React-Frontend%20UI-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nodejs.org/en" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-Runtime-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://render.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Render-Deployment-000000?style=for-the-badge&logo=render&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://jwt.io/" target="_blank">
+    <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/NPM-Package%20Manager-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🗄️ Database
+
+<p align="center">
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-NoSQL%20Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-Relational%20Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+</p>
 
 ---
 
