@@ -246,6 +246,110 @@ Let’s build better software together 🚀
 
 
 
+<h1 align="center">🚀 MERN Engineering (Mini Role) — Full Stack + SDET Mindset</h1>
+
+<p align="center">
+  <em>
+    Alongside my primary focus as an <strong>SDET</strong>, I actively build and deploy <strong>MERN stack applications</strong>  
+    to strengthen real-world backend validation, API reliability, database behavior understanding, and production readiness.
+  </em>
+</p>
+
+---
+
+Beyond testing, I develop full-stack projects to practice what strong QA engineers must understand deeply:  
+<strong>how real systems behave in production</strong> — including REST APIs, middleware, database persistence, error handling, deployment, and edge cases.
+
+This mini role helps me bridge the gap between:
+<strong>Developer Thinking ↔ QA Thinking ↔ Production Thinking</strong>.
+
+<div align="left">
+
+### 🧠 What This Reflects (Recruiter Value)
+- Building **real MERN apps**, not just tutorial clones  
+- Strong understanding of **REST APIs + Express architecture**
+- Database persistence & CRUD verification using **MongoDB Atlas**
+- API testing mindset using **Postman** (functional + negative testing)
+- Deployment experience + handling real-world issues (timeouts, sleeping services, CORS, env vars)
+- Writing **clean documentation + execution proof** like an SDET
+
+</div>
+
+---
+
+<h3 align="center">🧰 Tech Stack Used (MERN)</h3>
+
+<p align="center">
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-Database%20(Atlas)-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Express.js-Backend%20(API)-000000?style=for-the-badge&logo=express&logoColor=white" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React-Frontend%20(UI)-61DAFB?style=for-the-badge&logo=react&logoColor=000000" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nodejs.org/en" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-Server%20Runtime-339933?style=for-the-badge&logo=node.js&logoColor=white" height="45"/>
+  </a>
+</p>
+
+
+---
+
+<p align="center">
+  <em>
+    I treat every MERN project like a production system — with API testing proof, documentation, and deployment validation.
+  </em>
+</p>
+
+---
+
+<div align="center">
+
+<a href="PASTE_YOUR_MERN_PROJECTS_FOLDER_LINK_HERE" target="_blank">
+  <img src="https://img.shields.io/badge/🔥%20View%20My%20MERN%20Projects-Full%20Stack%20Apps%20%7C%20APIs%20%7C%20Deployment-orange?style=for-the-badge&logo=github&logoColor=white" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="PASTE_YOUR_LATEST_DEPLOYED_NOTES_APP_REPO_LINK_HERE" target="_blank">
+  <img src="https://img.shields.io/badge/📝%20Latest%20Deployment-ThinkBoard%20Notes%20App%20(MERN)-1f6feb?style=for-the-badge&logo=render&logoColor=white" height="45"/>
+</a>
+
+</div>
+
+
+---
+
+<div align="left">
+
+### ⭐ Highlighted MERN Project
+<strong>ThinkBoard — MERN Notes Application</strong>
+
+- Full CRUD notes system with MongoDB Atlas persistence  
+- REST API built with Express + controllers + middleware  
+- Postman-tested endpoints + exported collection for reviewers  
+- Rate limiting implemented for API protection  
+- Production deployment with clear documentation + execution proof (GIFs)  
+- Beginner-friendly 13-PDF step-by-step guide (dev → production)
+
+</div>
+
+---
+
+<p align="center">
+  <em>
+    This mini role proves I can test systems not only from the outside —  
+    but also understand how they are built internally, deployed, and scaled.
+  </em>
+</p>
+
+
+
+
+
 <div align='center'>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="40" height="40" />Strava Running Stats — Willpower Booster (Hobby)</h1>
