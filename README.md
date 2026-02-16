@@ -326,7 +326,7 @@ This mini role helps me bridge the gap between:
   </a>
 </p>
 <p align="center">
-  <a href="PASTE_YOUR_MERN_RESUME_LINK_HERE" target="_blank">
+  <a href="https://github.com/RouthKiranBabu/MERN--Projects./blob/main/MERN_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄%20MERN%20Resume-Frontend%20%7C%20Backend%20%7C%20MongoDB-success?style=for-the-badge&logo=readme&logoColor=white" height="45"/>
   </a>
 </p>
