@@ -323,13 +323,16 @@ This mini role helps me bridge the gap between:
   </a>
   <a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)#-live-demo" target="_blank">
     <img src="https://img.shields.io/badge/📝%20Latest%20Deployment-ThinkBoard%20Notes%20App%20(MERN)-1f6feb?style=for-the-badge&logo=render&logoColor=white" height="45"/>
-  </a>
-</p>
-<p align="center">
+  </a></br>
   <a href="https://github.com/RouthKiranBabu/MERN--Projects./blob/main/MERN_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄%20MERN%20Resume-Frontend%20%7C%20Backend%20%7C%20MongoDB-success?style=for-the-badge&logo=readme&logoColor=white" height="45"/>
   </a>
 </p>
+<!-- <p align="center">
+  <a href="https://github.com/RouthKiranBabu/MERN--Projects./blob/main/MERN_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20MERN%20Resume-Frontend%20%7C%20Backend%20%7C%20MongoDB-success?style=for-the-badge&logo=readme&logoColor=white" height="45"/>
+  </a>
+</p> -->
 
 </div>
 
