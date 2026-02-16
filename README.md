@@ -316,15 +316,23 @@ This mini role helps me bridge the gap between:
 
 <div align="center">
 
-<a href="https://github.com/RouthKiranBabu/MERN--Projects./blob/main/README.md#-mern-projects--index" target="_blank">
-  <img src="https://img.shields.io/badge/🔥%20View%20My%20MERN%20Projects-Full%20Stack%20Apps%20%7C%20APIs%20%7C%20Deployment-orange?style=for-the-badge&logo=github&logoColor=white" height="45"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)#-live-demo" target="_blank">
-  <img src="https://img.shields.io/badge/📝%20Latest%20Deployment-ThinkBoard%20Notes%20App%20(MERN)-1f6feb?style=for-the-badge&logo=render&logoColor=white" height="45"/>
-</a>
+<!-- Row 1: Two buttons side-by-side -->
+<p align="center">
+  <a href="https://github.com/RouthKiranBabu/MERN--Projects./blob/main/README.md#-mern-projects--index" target="_blank">
+    <img src="https://img.shields.io/badge/🔥%20View%20My%20MERN%20Projects-Full%20Stack%20Apps%20%7C%20APIs%20%7C%20Deployment-orange?style=for-the-badge&logo=github&logoColor=white" height="45"/>
+  </a>
+  <a href="https://github.com/RouthKiranBabu/Mini_Major--Projects./tree/main/Projects/Year_Equals_2026/02_Feb/02_%5BMERN%5D%20-%20ThinkBoard%20%E2%80%93%20MERN%20Notes%20App%20(CRUD%20%2B%20MongoDB%20%2B%20Render%20Deployment)#-live-demo" target="_blank">
+    <img src="https://img.shields.io/badge/📝%20Latest%20Deployment-ThinkBoard%20Notes%20App%20(MERN)-1f6feb?style=for-the-badge&logo=render&logoColor=white" height="45"/>
+  </a>
+</p>
+<p align="center">
+  <a href="PASTE_YOUR_MERN_RESUME_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20MERN%20Resume-Frontend%20%7C%20Backend%20%7C%20MongoDB-success?style=for-the-badge&logo=readme&logoColor=white" height="45"/>
+  </a>
+</p>
 
 </div>
+
 
 
 ---
