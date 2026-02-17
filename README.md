@@ -493,15 +493,16 @@ I apply the same engineering mindset here as I do in testing—**measuring outco
 
 <p align="center">
   <a href="https://www.oracle.com/java/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-Official-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-17%2B%20(LTS)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   </a>
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-Official-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-Official-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/JavaScript-(Node.js%2020%20LTS)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </a>
 </p>
+
 
 ---
 
