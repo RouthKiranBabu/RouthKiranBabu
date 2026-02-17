@@ -327,6 +327,9 @@ This mini role helps me bridge the gap between:
   <a href="https://drive.google.com/file/d/1TDS0ZGGYzXoO-vaL9oXiSM6Ar7WoPuyU/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄%20MERN%20Resume-Frontend%20%7C%20Backend%20%7C%20MongoDB-success?style=for-the-badge&logo=readme&logoColor=white" height="45"/>
   </a>
+  <a href="https://sdet-sparkle-hub.lovable.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Open%20Portfolio-1%20Page%20%7C%20Projects%20%7C%20Skills%20%7C%20Contact-9b59b6?style=for-the-badge&logo=vercel&logoColor=white"     height="45"/>
+  </a>
 </p>
 <!-- <p align="center">
   <a href="https://github.com/RouthKiranBabu/MERN--Projects./blob/main/MERN_Resume.pdf" target="_blank">
